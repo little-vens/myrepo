@@ -1,3 +1,4 @@
-src
-ssm_parent.iml
+target
+*.iml
+*.log
 .idea
